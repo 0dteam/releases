@@ -1,0 +1,6 @@
+7866707661ce9efd68b651c7755cb8f5c9e6f874bd138ed548849f3043486fc2  PDFBro-1.0.0-preview-android-arm.apk
+84022000a70a641c9c2ddb65d98dee6d85a157f1fd45ed0984d4366efd2d4cee  PDFBro-1.0.0-preview-android-arm64.apk
+7dbbf5b1abd64d756b0e3d1d34dbcbd05eeabfc805a4a7ccc27d4c71b8d27c17  PDFBro-1.0.0-preview-android-universal.apk
+4f54a7046f1b2a709db1680c70f9568a0f63174c6d0ab0a1eb0501372570aa2a  PDFBro-1.0.0-preview-android-x64.apk
+0bad720f4effeb84fc04e63c627a4c784edd10c7c16f6604b07800b80f2f4d1a  PDFBro-1.0.0-preview-windows-x64.exe
+eda1d0a41b933eb5234501e52e65b4ea229eb4f6662d43d7602952005693fe47  PDFBro-1.0.0-preview-windows-x64.zip
